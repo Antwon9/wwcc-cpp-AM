@@ -2,4 +2,5 @@
 
 int main() {
     std::cout << "My first Git-tracked C++ program";
+    return 0;
 }
